@@ -1,6 +1,6 @@
 # Supermarket Distribution Network
 
-This project consists on a program written in C++ which purpose is to find the regional sub-networks of a supermarket chain in order to be possible for any distribution point in a region to send products to any other point in the same region.
+This project consists on a program written in C++ which purpose is to find the regional sub-networks of a supermarket chain in order to be possible for any distribution point in a region to send products to any other point in the same region. I implemented Tarjan's Algorithm to solve this problem.
 
 ## Getting Started
 
